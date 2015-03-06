@@ -145,10 +145,12 @@
 .se-next {
   background-position:0 -32px;
   right: 5px;
+    //display: none;
 }
 
 .se-prev {
   left: 5px;
+    //display: none;
 }
 
 /*pager links*/
