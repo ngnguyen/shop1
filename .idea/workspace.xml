@@ -35,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="global.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="global.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/global.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="108956" max-vertical-offset="166360">
-              <caret line="5452" column="19" selection-start-line="5452" selection-start-column="19" selection-end-line="5452" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.23574145" vertical-offset="108956" max-vertical-offset="166360">
+              <caret line="5454" column="12" selection-start-line="5454" selection-start-column="12" selection-end-line="5454" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -55,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdminFeaturesController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AdminFeaturesController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controllers/admin/AdminFeaturesController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5231388" vertical-offset="2940" max-vertical-offset="12560">
-              <caret line="160" column="22" selection-start-line="160" selection-start-column="22" selection-end-line="160" selection-end-column="22" />
+            <state vertical-scroll-proportion="-10.24138" vertical-offset="2843" max-vertical-offset="12560">
+              <caret line="157" column="42" selection-start-line="157" selection-start-column="42" selection-end-line="157" selection-end-column="42" />
               <folding>
                 <marker date="1424775222000" expanded="true" signature="15802:15886" placeholder="SELECT `posi..." />
               </folding>
@@ -393,7 +393,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -882,14 +882,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/global.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="108956" max-vertical-offset="166360">
-          <caret line="5452" column="19" selection-start-line="5452" selection-start-column="19" selection-end-line="5452" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/settings.inc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.275862" vertical-offset="0" max-vertical-offset="440">
@@ -900,11 +892,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers/admin/AdminFeaturesController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5231388" vertical-offset="2940" max-vertical-offset="12560">
-          <caret line="160" column="22" selection-start-line="160" selection-start-column="22" selection-end-line="160" selection-end-column="22" />
+        <state vertical-scroll-proportion="-10.24138" vertical-offset="2843" max-vertical-offset="12560">
+          <caret line="157" column="42" selection-start-line="157" selection-start-column="42" selection-end-line="157" selection-end-column="42" />
           <folding>
             <marker date="1424775222000" expanded="true" signature="15802:15886" placeholder="SELECT `posi..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23574145" vertical-offset="108956" max-vertical-offset="166360">
+          <caret line="5454" column="12" selection-start-line="5454" selection-start-column="12" selection-end-line="5454" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
